@@ -1,0 +1,52 @@
+{
+    "P001": {
+        "name": "Ananya Verma",
+        "city": "Guwahati",
+        "age": 28,
+        "gender": "female",
+        "height": 1.65,
+        "weight": 90.0,
+        "bmi": 33.06,
+        "verdict": "Obese"
+    },
+    "P002": {
+        "name": "John Doe",
+        "city": "Springfield",
+        "age": 40,
+        "gender": "Male",
+        "height": 175.5,
+        "weight": 70.5,
+        "bmi": 22.89,
+        "verdict": "Normal weight"
+    },
+    "P003": {
+        "name": "Sneha Kulkarni",
+        "city": "Pune",
+        "age": 22,
+        "gender": "female",
+        "height": 1.6,
+        "weight": 45,
+        "bmi": 17.58,
+        "verdict": "Underweight"
+    },
+    "P004": {
+        "name": "Arjun Verma",
+        "city": "Mumbai",
+        "age": 40,
+        "gender": "male",
+        "height": 1.8,
+        "weight": 90.0,
+        "bmi": 27.78,
+        "verdict": "Normal"
+    },
+    "P006": {
+        "name": "John Doe",
+        "city": "Springfield",
+        "age": 30,
+        "gender": "Male",
+        "height": 175.5,
+        "weight": 70.5,
+        "bmi": 22.89,
+        "verdict": "Normal weight"
+    }
+}
